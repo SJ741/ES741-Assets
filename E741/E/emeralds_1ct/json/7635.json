@@ -1,0 +1,19 @@
+{
+    "description": "A small, mysterious hotpink pouch. I wonder what's inside?",
+    "image": "https://raw.githubusercontent.com/SJ741/E741-Assets/tree/main/E741/E/emeralds_1ct/png/7635.png",
+    "name": "Small jewel pouch 7635",
+    "attributes": [
+        {
+            "trait_type": "Pouch color",
+            "value": "hotpink"
+        },
+        {
+            "trait_type": "String color",
+            "value": "blueviolet"
+        },
+        {
+            "trait_type": "Carat weight",
+            "value": 1.05
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "description": "A small, mysterious teal pouch. I wonder what's inside?",
+    "image": "https://raw.githubusercontent.com/SJ741/E741-Assets/tree/main/E741/E/emeralds_1ct/png/1075.png",
+    "name": "Small jewel pouch 1075",
+    "attributes": [
+        {
+            "trait_type": "Pouch color",
+            "value": "teal"
+        },
+        {
+            "trait_type": "String color",
+            "value": "palegreen"
+        },
+        {
+            "trait_type": "Carat weight",
+            "value": 0.96
+        }
+    ]
+}

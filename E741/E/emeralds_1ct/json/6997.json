@@ -1,0 +1,19 @@
+{
+    "description": "A small, mysterious orangered pouch. I wonder what's inside?",
+    "image": "https://raw.githubusercontent.com/SJ741/E741-Assets/tree/main/E741/E/emeralds_1ct/png/6997.png",
+    "name": "Small jewel pouch 6997",
+    "attributes": [
+        {
+            "trait_type": "Pouch color",
+            "value": "orangered"
+        },
+        {
+            "trait_type": "String color",
+            "value": "seagreen"
+        },
+        {
+            "trait_type": "Carat weight",
+            "value": 0.81
+        }
+    ]
+}

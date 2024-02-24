@@ -1,0 +1,19 @@
+{
+    "description": "A small, mysterious mediumspringgreen pouch. I wonder what's inside?",
+    "image": "https://raw.githubusercontent.com/SJ741/E741-Assets/tree/main/E741/E/emeralds_1ct/png/3532.png",
+    "name": "Small jewel pouch 3532",
+    "attributes": [
+        {
+            "trait_type": "Pouch color",
+            "value": "mediumspringgreen"
+        },
+        {
+            "trait_type": "String color",
+            "value": "palegreen"
+        },
+        {
+            "trait_type": "Carat weight",
+            "value": 1.22
+        }
+    ]
+}

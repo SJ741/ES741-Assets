@@ -1,0 +1,19 @@
+{
+    "description": "A small, mysterious red pouch. I wonder what's inside?",
+    "image": "https://raw.githubusercontent.com/SJ741/E741-Assets/tree/main/E741/E/emeralds_1ct/png/4405.png",
+    "name": "Small jewel pouch 4405",
+    "attributes": [
+        {
+            "trait_type": "Pouch color",
+            "value": "red"
+        },
+        {
+            "trait_type": "String color",
+            "value": "darkgoldenrod"
+        },
+        {
+            "trait_type": "Carat weight",
+            "value": 0.85
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "description": "A small, mysterious navy pouch. I wonder what's inside?",
+    "image": "https://raw.githubusercontent.com/SJ741/E741-Assets/tree/main/E741/E/emeralds_1ct/png/2936.png",
+    "name": "Small jewel pouch 2936",
+    "attributes": [
+        {
+            "trait_type": "Pouch color",
+            "value": "navy"
+        },
+        {
+            "trait_type": "String color",
+            "value": "seagreen"
+        },
+        {
+            "trait_type": "Carat weight",
+            "value": 0.86
+        }
+    ]
+}

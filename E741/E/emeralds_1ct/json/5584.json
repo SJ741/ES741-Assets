@@ -1,0 +1,19 @@
+{
+    "description": "A small, mysterious cyan pouch. I wonder what's inside?",
+    "image": "https://raw.githubusercontent.com/SJ741/E741-Assets/tree/main/E741/E/emeralds_1ct/png/5584.png",
+    "name": "Small jewel pouch 5584",
+    "attributes": [
+        {
+            "trait_type": "Pouch color",
+            "value": "cyan"
+        },
+        {
+            "trait_type": "String color",
+            "value": "mediumorchid"
+        },
+        {
+            "trait_type": "Carat weight",
+            "value": 1.14
+        }
+    ]
+}

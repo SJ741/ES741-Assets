@@ -1,0 +1,19 @@
+{
+    "description": "A small, mysterious darkslategray pouch. I wonder what's inside?",
+    "image": "https://raw.githubusercontent.com/SJ741/E741-Assets/tree/main/E741/E/emeralds_1ct/png/4039.png",
+    "name": "Small jewel pouch 4039",
+    "attributes": [
+        {
+            "trait_type": "Pouch color",
+            "value": "darkslategray"
+        },
+        {
+            "trait_type": "String color",
+            "value": "hotpink"
+        },
+        {
+            "trait_type": "Carat weight",
+            "value": 0.93
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "description": "A small, mysterious darkkhaki pouch. I wonder what's inside?",
+    "image": "https://raw.githubusercontent.com/SJ741/E741-Assets/tree/main/E741/E/emeralds_1ct/png/3448.png",
+    "name": "Small jewel pouch 3448",
+    "attributes": [
+        {
+            "trait_type": "Pouch color",
+            "value": "darkkhaki"
+        },
+        {
+            "trait_type": "String color",
+            "value": "darkviolet"
+        },
+        {
+            "trait_type": "Carat weight",
+            "value": 1.13
+        }
+    ]
+}

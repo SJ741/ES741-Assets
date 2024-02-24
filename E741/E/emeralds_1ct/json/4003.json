@@ -1,0 +1,19 @@
+{
+    "description": "A small, mysterious lightsteelblue pouch. I wonder what's inside?",
+    "image": "https://raw.githubusercontent.com/SJ741/E741-Assets/tree/main/E741/E/emeralds_1ct/png/4003.png",
+    "name": "Small jewel pouch 4003",
+    "attributes": [
+        {
+            "trait_type": "Pouch color",
+            "value": "lightsteelblue"
+        },
+        {
+            "trait_type": "String color",
+            "value": "limegreen"
+        },
+        {
+            "trait_type": "Carat weight",
+            "value": 0.99
+        }
+    ]
+}
