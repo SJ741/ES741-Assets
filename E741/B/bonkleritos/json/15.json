@@ -1,0 +1,39 @@
+{
+    "description": "Bonklerito is a set of 100 little banditos, that can be unwrapped into full size Bonklers at a ratio of 20:1",
+    "image": "https://raw.githubusercontent.com/SJ741/E741-Assets/main/E741/B/bonklitos/png/15.png",
+    "name": "Bonklerito # #15",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Mt Fuji"
+        },
+        {
+            "trait_type": "shield",
+            "value": "Blocky Torch"
+        },
+        {
+            "trait_type": "body",
+            "value": "Tape dispenser"
+        },
+        {
+            "trait_type": "head",
+            "value": "Safety Cone"
+        },
+        {
+            "trait_type": "face",
+            "value": "'-'"
+        },
+        {
+            "trait_type": "weapon",
+            "value": "XL Shuriken"
+        },
+        {
+            "trait_type": "pilot",
+            "value": "Anya"
+        },
+        {
+            "trait_type": "mech",
+            "value": "#0000ff"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "description": "Bonklerito is a set of 100 little banditos, that can be unwrapped into full size Bonklers at a ratio of 20:1",
+    "image": "https://raw.githubusercontent.com/SJ741/E741-Assets/main/E741/B/bonklitos/png/21.png",
+    "name": "Bonklerito # #21",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Colosseum"
+        },
+        {
+            "trait_type": "shield",
+            "value": "Sparkle Heart"
+        },
+        {
+            "trait_type": "body",
+            "value": "Toa Torso"
+        },
+        {
+            "trait_type": "head",
+            "value": "CubeGame"
+        },
+        {
+            "trait_type": "face",
+            "value": "Brock"
+        },
+        {
+            "trait_type": "weapon",
+            "value": "Power Pole"
+        },
+        {
+            "trait_type": "pilot",
+            "value": "Hero of Legend"
+        },
+        {
+            "trait_type": "mech",
+            "value": "#00ff00"
+        }
+    ]
+}

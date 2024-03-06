@@ -1,0 +1,39 @@
+{
+    "description": "Bonklerito is a set of 100 little banditos, that can be unwrapped into full size Bonklers at a ratio of 20:1",
+    "image": "https://raw.githubusercontent.com/SJ741/E741-Assets/main/E741/B/bonklitos/png/2.png",
+    "name": "Bonklerito # #2",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Rubber Band Ball"
+        },
+        {
+            "trait_type": "shield",
+            "value": "Delimscous Borger"
+        },
+        {
+            "trait_type": "body",
+            "value": "Boy Game"
+        },
+        {
+            "trait_type": "head",
+            "value": "Chao"
+        },
+        {
+            "trait_type": "face",
+            "value": "Brock"
+        },
+        {
+            "trait_type": "weapon",
+            "value": "Frostmourne"
+        },
+        {
+            "trait_type": "pilot",
+            "value": "Long Plumber"
+        },
+        {
+            "trait_type": "mech",
+            "value": "#5500aa"
+        }
+    ]
+}
