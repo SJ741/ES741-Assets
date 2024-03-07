@@ -1,0 +1,39 @@
+{
+    "description": "Bonklerito is a set of 100 little banditos, that can be unwrapped into full size Bonklers at a ratio of 20:1",
+    "image": "https://raw.githubusercontent.com/SJ741/E741-Assets/main/E741/B/bonklitos/png/52.png",
+    "name": "Bonklerito # #52",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Sleeping With the Fishes"
+        },
+        {
+            "trait_type": "shield",
+            "value": "Yin Yang"
+        },
+        {
+            "trait_type": "body",
+            "value": "Magic Card"
+        },
+        {
+            "trait_type": "head",
+            "value": "Serec"
+        },
+        {
+            "trait_type": "face",
+            "value": ":D"
+        },
+        {
+            "trait_type": "weapon",
+            "value": "Rune Pickaxe"
+        },
+        {
+            "trait_type": "pilot",
+            "value": "Herculad"
+        },
+        {
+            "trait_type": "mech",
+            "value": "#0055ff"
+        }
+    ]
+}

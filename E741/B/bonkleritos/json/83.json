@@ -1,0 +1,39 @@
+{
+    "description": "Bonklerito is a set of 100 little banditos, that can be unwrapped into full size Bonklers at a ratio of 20:1",
+    "image": "https://raw.githubusercontent.com/SJ741/E741-Assets/main/E741/B/bonklitos/png/83.png",
+    "name": "Bonklerito # #83",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Mr Bone's Wild Ride"
+        },
+        {
+            "trait_type": "shield",
+            "value": "Rune Defender"
+        },
+        {
+            "trait_type": "body",
+            "value": "Gundam Rose"
+        },
+        {
+            "trait_type": "head",
+            "value": "Teapot"
+        },
+        {
+            "trait_type": "face",
+            "value": "Brock"
+        },
+        {
+            "trait_type": "weapon",
+            "value": "Power Pole"
+        },
+        {
+            "trait_type": "pilot",
+            "value": "Menhera"
+        },
+        {
+            "trait_type": "mech",
+            "value": "#55ff00"
+        }
+    ]
+}

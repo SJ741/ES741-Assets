@@ -1,0 +1,39 @@
+{
+    "description": "Bonklerito is a set of 100 little banditos, that can be unwrapped into full size Bonklers at a ratio of 20:1",
+    "image": "https://raw.githubusercontent.com/SJ741/E741-Assets/main/E741/B/bonklitos/png/77.png",
+    "name": "Bonklerito # #77",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Firelink"
+        },
+        {
+            "trait_type": "shield",
+            "value": "Delimscous Borger"
+        },
+        {
+            "trait_type": "body",
+            "value": "Elf Vape"
+        },
+        {
+            "trait_type": "head",
+            "value": "Red Bloon"
+        },
+        {
+            "trait_type": "face",
+            "value": "'-'"
+        },
+        {
+            "trait_type": "weapon",
+            "value": "XL Shuriken"
+        },
+        {
+            "trait_type": "pilot",
+            "value": "Doot Doot"
+        },
+        {
+            "trait_type": "mech",
+            "value": "#ff0000"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "description": "Bonklerito is a set of 100 little banditos, that can be unwrapped into full size Bonklers at a ratio of 20:1",
+    "image": "https://raw.githubusercontent.com/SJ741/E741-Assets/main/E741/B/bonklitos/png/36.png",
+    "name": "Bonklerito # #36",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Rubber Band Ball"
+        },
+        {
+            "trait_type": "shield",
+            "value": "Rune Defender"
+        },
+        {
+            "trait_type": "body",
+            "value": "Elf Vape"
+        },
+        {
+            "trait_type": "head",
+            "value": "Lampshade"
+        },
+        {
+            "trait_type": "face",
+            "value": ":D"
+        },
+        {
+            "trait_type": "weapon",
+            "value": "Dustpan"
+        },
+        {
+            "trait_type": "pilot",
+            "value": "Pitfall-avoider"
+        },
+        {
+            "trait_type": "mech",
+            "value": "#ffaaff"
+        }
+    ]
+}

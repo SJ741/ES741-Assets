@@ -1,0 +1,39 @@
+{
+    "description": "Bonklerito is a set of 100 little banditos, that can be unwrapped into full size Bonklers at a ratio of 20:1",
+    "image": "https://raw.githubusercontent.com/SJ741/E741-Assets/main/E741/B/bonklitos/png/49.png",
+    "name": "Bonklerito # #49",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Lumby"
+        },
+        {
+            "trait_type": "shield",
+            "value": "Rune Defender"
+        },
+        {
+            "trait_type": "body",
+            "value": "Elite Knight Armor"
+        },
+        {
+            "trait_type": "head",
+            "value": "Serec"
+        },
+        {
+            "trait_type": "face",
+            "value": "angy"
+        },
+        {
+            "trait_type": "weapon",
+            "value": "Olight Warrior Mini III Flashlight in \"Midnight Horizon\" finish"
+        },
+        {
+            "trait_type": "pilot",
+            "value": "Layer21"
+        },
+        {
+            "trait_type": "mech",
+            "value": "#00aa55"
+        }
+    ]
+}

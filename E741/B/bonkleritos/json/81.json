@@ -1,0 +1,39 @@
+{
+    "description": "Bonklerito is a set of 100 little banditos, that can be unwrapped into full size Bonklers at a ratio of 20:1",
+    "image": "https://raw.githubusercontent.com/SJ741/E741-Assets/main/E741/B/bonklitos/png/81.png",
+    "name": "Bonklerito # #81",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Giza"
+        },
+        {
+            "trait_type": "shield",
+            "value": "Blocky Torch"
+        },
+        {
+            "trait_type": "body",
+            "value": "Boy Game"
+        },
+        {
+            "trait_type": "head",
+            "value": "Sewing Machine"
+        },
+        {
+            "trait_type": "face",
+            "value": "Brock"
+        },
+        {
+            "trait_type": "weapon",
+            "value": "Dragon long"
+        },
+        {
+            "trait_type": "pilot",
+            "value": "Menhera"
+        },
+        {
+            "trait_type": "mech",
+            "value": "#aaffff"
+        }
+    ]
+}

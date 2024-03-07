@@ -1,0 +1,39 @@
+{
+    "description": "Bonklerito is a set of 100 little banditos, that can be unwrapped into full size Bonklers at a ratio of 20:1",
+    "image": "https://raw.githubusercontent.com/SJ741/E741-Assets/main/E741/B/bonklitos/png/80.png",
+    "name": "Bonklerito # #80",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Big Boned"
+        },
+        {
+            "trait_type": "shield",
+            "value": "Big Pink Calculator"
+        },
+        {
+            "trait_type": "body",
+            "value": "Gundam Rose"
+        },
+        {
+            "trait_type": "head",
+            "value": "\"Not Kidding\" Star"
+        },
+        {
+            "trait_type": "face",
+            "value": "Brock"
+        },
+        {
+            "trait_type": "weapon",
+            "value": "Olight Warrior Mini III Flashlight in \"Midnight Horizon\" finish"
+        },
+        {
+            "trait_type": "pilot",
+            "value": "Herculad"
+        },
+        {
+            "trait_type": "mech",
+            "value": "#00ffaa"
+        }
+    ]
+}

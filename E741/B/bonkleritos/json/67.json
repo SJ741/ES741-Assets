@@ -1,0 +1,39 @@
+{
+    "description": "Bonklerito is a set of 100 little banditos, that can be unwrapped into full size Bonklers at a ratio of 20:1",
+    "image": "https://raw.githubusercontent.com/SJ741/E741-Assets/main/E741/B/bonklitos/png/67.png",
+    "name": "Bonklerito # #67",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Big Boned"
+        },
+        {
+            "trait_type": "shield",
+            "value": "Delimscous Borger"
+        },
+        {
+            "trait_type": "body",
+            "value": "Toa Torso"
+        },
+        {
+            "trait_type": "head",
+            "value": "Sewing Machine"
+        },
+        {
+            "trait_type": "face",
+            "value": ":D"
+        },
+        {
+            "trait_type": "weapon",
+            "value": "Frostmourne"
+        },
+        {
+            "trait_type": "pilot",
+            "value": "Medium Plumber"
+        },
+        {
+            "trait_type": "mech",
+            "value": "#000055"
+        }
+    ]
+}

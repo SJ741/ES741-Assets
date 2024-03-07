@@ -1,0 +1,39 @@
+{
+    "description": "Bonklerito is a set of 100 little banditos, that can be unwrapped into full size Bonklers at a ratio of 20:1",
+    "image": "https://raw.githubusercontent.com/SJ741/E741-Assets/main/E741/B/bonklitos/png/51.png",
+    "name": "Bonklerito # #51",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Giza"
+        },
+        {
+            "trait_type": "shield",
+            "value": "Fishing Pole"
+        },
+        {
+            "trait_type": "body",
+            "value": "Runite Platebody"
+        },
+        {
+            "trait_type": "head",
+            "value": "Chao"
+        },
+        {
+            "trait_type": "face",
+            "value": "'-'"
+        },
+        {
+            "trait_type": "weapon",
+            "value": "Olight Warrior Mini III Flashlight in \"Midnight Horizon\" finish"
+        },
+        {
+            "trait_type": "pilot",
+            "value": "Medium Plumber"
+        },
+        {
+            "trait_type": "mech",
+            "value": "#0055ff"
+        }
+    ]
+}

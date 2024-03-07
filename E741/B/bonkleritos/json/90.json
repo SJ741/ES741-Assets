@@ -1,0 +1,39 @@
+{
+    "description": "Bonklerito is a set of 100 little banditos, that can be unwrapped into full size Bonklers at a ratio of 20:1",
+    "image": "https://raw.githubusercontent.com/SJ741/E741-Assets/main/E741/B/bonklitos/png/90.png",
+    "name": "Bonklerito # #90",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Computer Grass"
+        },
+        {
+            "trait_type": "shield",
+            "value": "Big Pink Calculator"
+        },
+        {
+            "trait_type": "body",
+            "value": "Gundam Rose"
+        },
+        {
+            "trait_type": "head",
+            "value": "Safety Cone"
+        },
+        {
+            "trait_type": "face",
+            "value": "wide"
+        },
+        {
+            "trait_type": "weapon",
+            "value": "XL Shuriken"
+        },
+        {
+            "trait_type": "pilot",
+            "value": "Pitfall-avoider"
+        },
+        {
+            "trait_type": "mech",
+            "value": "#ffff00"
+        }
+    ]
+}

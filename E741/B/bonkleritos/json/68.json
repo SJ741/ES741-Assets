@@ -1,0 +1,39 @@
+{
+    "description": "Bonklerito is a set of 100 little banditos, that can be unwrapped into full size Bonklers at a ratio of 20:1",
+    "image": "https://raw.githubusercontent.com/SJ741/E741-Assets/main/E741/B/bonklitos/png/68.png",
+    "name": "Bonklerito # #68",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Temple of Time"
+        },
+        {
+            "trait_type": "shield",
+            "value": "Blocky Torch"
+        },
+        {
+            "trait_type": "body",
+            "value": "Steel Platebody"
+        },
+        {
+            "trait_type": "head",
+            "value": "Safety Cone"
+        },
+        {
+            "trait_type": "face",
+            "value": "angy"
+        },
+        {
+            "trait_type": "weapon",
+            "value": "Dragon long"
+        },
+        {
+            "trait_type": "pilot",
+            "value": "Hero of Legend"
+        },
+        {
+            "trait_type": "mech",
+            "value": "#aaaa00"
+        }
+    ]
+}

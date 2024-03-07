@@ -1,0 +1,39 @@
+{
+    "description": "Bonklerito is a set of 100 little banditos, that can be unwrapped into full size Bonklers at a ratio of 20:1",
+    "image": "https://raw.githubusercontent.com/SJ741/E741-Assets/main/E741/B/bonklitos/png/89.png",
+    "name": "Bonklerito # #89",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Temple of Time"
+        },
+        {
+            "trait_type": "shield",
+            "value": "Silver Cross"
+        },
+        {
+            "trait_type": "body",
+            "value": "Elf Vape"
+        },
+        {
+            "trait_type": "head",
+            "value": "Stop Sign"
+        },
+        {
+            "trait_type": "face",
+            "value": "Disturbed"
+        },
+        {
+            "trait_type": "weapon",
+            "value": "Heritage Rough Rider 22 Long Rifle 16in Blued Revolver"
+        },
+        {
+            "trait_type": "pilot",
+            "value": "Anya"
+        },
+        {
+            "trait_type": "mech",
+            "value": "#aaaa00"
+        }
+    ]
+}

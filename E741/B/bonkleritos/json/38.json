@@ -1,0 +1,39 @@
+{
+    "description": "Bonklerito is a set of 100 little banditos, that can be unwrapped into full size Bonklers at a ratio of 20:1",
+    "image": "https://raw.githubusercontent.com/SJ741/E741-Assets/main/E741/B/bonklitos/png/38.png",
+    "name": "Bonklerito # #38",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Giza"
+        },
+        {
+            "trait_type": "shield",
+            "value": "Spartan"
+        },
+        {
+            "trait_type": "body",
+            "value": "Ipod Classic"
+        },
+        {
+            "trait_type": "head",
+            "value": "\"Not Kidding\" Star"
+        },
+        {
+            "trait_type": "face",
+            "value": "angy"
+        },
+        {
+            "trait_type": "weapon",
+            "value": "Heritage Rough Rider 22 Long Rifle 16in Blued Revolver"
+        },
+        {
+            "trait_type": "pilot",
+            "value": "Long Plumber"
+        },
+        {
+            "trait_type": "mech",
+            "value": "#ff5555"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "description": "Bonklerito is a set of 100 little banditos, that can be unwrapped into full size Bonklers at a ratio of 20:1",
+    "image": "https://raw.githubusercontent.com/SJ741/E741-Assets/main/E741/B/bonklitos/png/62.png",
+    "name": "Bonklerito # #62",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Happy To Be Here"
+        },
+        {
+            "trait_type": "shield",
+            "value": "Fishing Pole"
+        },
+        {
+            "trait_type": "body",
+            "value": "Toa Torso"
+        },
+        {
+            "trait_type": "head",
+            "value": "Saiyan Pod"
+        },
+        {
+            "trait_type": "face",
+            "value": "angy"
+        },
+        {
+            "trait_type": "weapon",
+            "value": "Frostmourne"
+        },
+        {
+            "trait_type": "pilot",
+            "value": "Professor Chaos"
+        },
+        {
+            "trait_type": "mech",
+            "value": "#00aaff"
+        }
+    ]
+}

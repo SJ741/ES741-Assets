@@ -1,0 +1,39 @@
+{
+    "description": "Bonklerito is a set of 100 little banditos, that can be unwrapped into full size Bonklers at a ratio of 20:1",
+    "image": "https://raw.githubusercontent.com/SJ741/E741-Assets/main/E741/B/bonklitos/png/78.png",
+    "name": "Bonklerito # #78",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Happy To Be Here"
+        },
+        {
+            "trait_type": "shield",
+            "value": "Yin Yang"
+        },
+        {
+            "trait_type": "body",
+            "value": "Ipod Classic"
+        },
+        {
+            "trait_type": "head",
+            "value": "Stop Sign"
+        },
+        {
+            "trait_type": "face",
+            "value": ":3"
+        },
+        {
+            "trait_type": "weapon",
+            "value": "Dustpan"
+        },
+        {
+            "trait_type": "pilot",
+            "value": "SpongeGuy"
+        },
+        {
+            "trait_type": "mech",
+            "value": "#550055"
+        }
+    ]
+}

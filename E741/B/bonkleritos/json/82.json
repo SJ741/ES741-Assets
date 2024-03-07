@@ -1,0 +1,39 @@
+{
+    "description": "Bonklerito is a set of 100 little banditos, that can be unwrapped into full size Bonklers at a ratio of 20:1",
+    "image": "https://raw.githubusercontent.com/SJ741/E741-Assets/main/E741/B/bonklitos/png/82.png",
+    "name": "Bonklerito # #82",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Congress"
+        },
+        {
+            "trait_type": "shield",
+            "value": "Rune Defender"
+        },
+        {
+            "trait_type": "body",
+            "value": "Magic Card"
+        },
+        {
+            "trait_type": "head",
+            "value": "CubeGame"
+        },
+        {
+            "trait_type": "face",
+            "value": "wide"
+        },
+        {
+            "trait_type": "weapon",
+            "value": "Frostmourne"
+        },
+        {
+            "trait_type": "pilot",
+            "value": "Menhera"
+        },
+        {
+            "trait_type": "mech",
+            "value": "#aa5500"
+        }
+    ]
+}
