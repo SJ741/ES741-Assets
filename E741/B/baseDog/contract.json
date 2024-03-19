@@ -1,0 +1,7 @@
+{
+    "name": "Base Dog",
+    "description": "Base Dog is the world's first Fungible Non-Fungible Dog.",
+    "image": "https://raw.githubusercontent.com/SJ741/E741-Assets/main/E741/B/baseDog/png/0.png",
+    "external_link": "https://dog.741.gg",
+    "collaborators": ["0x75365dDb02bc316748fB9A2dc5a33B42f1fBA2E7","0x77f979563F0270F94DeBE4f57F658CB015ECC9C4"]
+}

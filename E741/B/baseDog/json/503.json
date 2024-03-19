@@ -1,0 +1,28 @@
+{
+    "name": "Base Dog #503",
+    "description": "Base Dog is the world's first Fungible Non-Fungible Dog.",
+    "external_url": "https://dog.741.gg",
+    "image": "https://raw.githubusercontent.com/SJ741/E741-Assets/main/E741/B/baseDog/png/503.png",
+    "attributes": [
+        {
+            "trait_type": "Color",
+            "value": "Rainbow"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Goofteeth"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sleepy"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Saudi"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Lollipop"
+        }
+    ]
+}
